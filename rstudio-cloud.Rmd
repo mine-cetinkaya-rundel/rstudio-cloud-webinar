@@ -597,9 +597,15 @@ class: middle, inverse
 
 ## More tips
 
-- Make brief screencasts for getting students oriented with the platform (especially if remote teaching)
+- Make brief screencasts for getting students oriented with the platform (especially if remote teaching), or use mine! 
 
-- or use mine! [Navigating RStudio Cloud on YouTube](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX05Bs80Hg5MjbOPnEFmwiOM)
+.center[
+[Navigating RStudio Cloud on YouTube](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX05Bs80Hg5MjbOPnEFmwiOM)
+]
+
+```{r echo=FALSE, out.width="50%", fig.align="center"}
+knitr::include_graphics("img/youtube-playlist.png")
+```
 
 ---
 
