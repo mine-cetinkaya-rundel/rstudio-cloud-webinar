@@ -1,6 +1,6 @@
 ---
 title: "Teaching R online with RStudio Cloud"
-subtitle: "`r emo::ji('link')` [rstd.io/design-ds-class](https://rstd.io/design-ds-class)"
+subtitle: "`r emo::ji('link')` [rstd.io/rscloud-webinar](https://rstd.io/rscloud-webinar)"
 author: "<br> Mine Çetinkaya-Rundel <br> `r emo::ji('bird')` [minebocek](https://twitter.com/minebocek) <br> `r emo::ji('woman_technologist')` [mine-cetinkaya-rundel](https://github.com/mine-cetinkaya-rundel) <br> `r emo::ji('envelope')` mine@rstudio.com"
 date: "<br> 24 March 2020"
 output:
@@ -668,6 +668,6 @@ background-size: cover
 
 <br><br><br><br><br><br>
 
-# `r emo::ji('link')` [rstd.io/design-ds-class](https://rstd.io/design-ds-class)
+# `r emo::ji('link')` [rstd.io/rscloud-webinar](https://rstd.io/rscloud-webinar)
 
 ---

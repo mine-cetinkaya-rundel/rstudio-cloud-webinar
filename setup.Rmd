@@ -14,7 +14,7 @@ layout: true
   
 <div class="my-footer">
 <span>
-<a href="https://rstd.io/design-ds-class" target="_blank">rstd.io/design-ds-class</a>
+<a href="https://rstd.io/rscloud-webinar" target="_blank">rstd.io/rscloud-webinar</a>
 </span>
 </div> 
 
